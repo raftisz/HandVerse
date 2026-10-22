@@ -1,0 +1,14 @@
+# ไฟล์ใหญ่ / ส่วนตัว ไม่อัปขึ้น GitHub
+recordings/
+old_versions/
+ml/data/
+ml/report.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store

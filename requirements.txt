@@ -1,0 +1,7 @@
+# ใช้กับ Python 3.10–3.11 (mediapipe 0.10.14 ยังไม่รองรับเวอร์ชันใหม่กว่า)
+opencv-python
+mediapipe==0.10.14
+pygame
+numpy
+# เฉพาะตอนเทรนโมเดล (ml/train.py)
+# scikit-learn
